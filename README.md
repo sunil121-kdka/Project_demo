@@ -1,3 +1,3 @@
-# Project_demo
+ls# Project_demo
 This is my first Git Repository.
-Author-sunil khadka
+Author-Suneel khadka
